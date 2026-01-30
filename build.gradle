@@ -96,6 +96,9 @@ dependencies {
     testImplementation "org.junit.jupiter:junit-jupiter-engine"
     testImplementation "org.hamcrest:hamcrest"
     testImplementation "org.hamcrest:hamcrest-library"
+
+    // milvus implementation
+    implementation 'io.milvus:milvus-sdk-java:2.6.13'
 }
 
 /**********************************************************************************************************************\
