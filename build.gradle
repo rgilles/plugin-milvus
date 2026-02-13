@@ -98,7 +98,7 @@ dependencies {
     testImplementation "org.hamcrest:hamcrest-library"
 
     // milvus implementation
-    api 'io.milvus:milvus-sdk-java:2.6.13'
+    api 'io.milvus:milvus-sdk-java:2.6.14'
 }
 
 /**********************************************************************************************************************\
